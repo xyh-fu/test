@@ -6,8 +6,8 @@
  * @license    GNU General Public License 2.0
  * @version    $Id$
  */
-
-/** 开启https */
+ 
+/** 开启https */ 
 define('__TYPECHO_SECURE__',true);
 
 /** 定义根目录 */
